@@ -30,13 +30,13 @@ Tous les autres utilisateurs seront sous Windows.
 <a id="etat"></a>
 ## Etat d'avancement du projet :
 - [x] Conception des documents : plan d'adressage IPv4 et IPv6 (LLA et ULA), listing machines, schéma synoptique, matrice des flux
-- [ ] Configuration du routeur (VLANs et filtrage)
-- [ ] Installation et configuration de l'ADDS avec role DNS et DHCP
-- [ ] Installation et configuration du serveur de fichiers
-- [ ] Installation et configuration du serveur GLPI
-- [ ] Installation et configuration du serveur WEB
-- [ ] Création des utilisateurs, des dossiers partagés, des GPO et des scripts
-- [ ] Déploiement et configuration des machines clientes
+- [X] Configuration du routeur (VLANs et filtrage)
+- [X] Installation et configuration de l'ADDS avec role DNS et DHCP
+- [X] Installation et configuration du serveur de fichiers
+- [X] Installation et configuration du serveur GLPI
+- [X] Installation et configuration du serveur WEB
+- [X] Création des utilisateurs, des dossiers partagés, des GPO et des scripts
+- [X] Déploiement et configuration des machines clientes
 
 <a id="schema"></a>
 ## Schéma synoptique du projet :
