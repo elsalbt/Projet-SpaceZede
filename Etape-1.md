@@ -1,21 +1,17 @@
 ## Conception des documents
 <p align="right"><a href="README.md">(Retourner au sommaire)</a></p>
 
-**1 - Plan d'adressage IPv4 et IPv6 (LLA et ULA) :**
+**1 - Plan d'adressage IPv4 (LLA) :**
 
-
-
+![image](https://github.com/user-attachments/assets/906bad05-5882-4f4b-bf39-659d88790f5d)
 
 **2 - Listing machines :**
-![image](https://github.com/user-attachments/assets/da6f1b86-0e33-4537-9cfe-9c6a5cf58b9e)
 
-
+![image](https://github.com/user-attachments/assets/d306d904-e6f0-4f4a-9cd8-8fdc0e14e584)
 
 **3 - Schéma synoptique :**
 
-
-![image](https://github.com/user-attachments/assets/3158902c-4aa9-4ebd-9723-d5629ba4d6a1)
-
+![image](https://github.com/user-attachments/assets/a743eee6-3ace-41d3-868a-b112f258a1b6)
 
 **4 - Matrice des flux :**
 
@@ -30,5 +26,8 @@
 | Serveur GLPI              |                        |  x  |      x|             x             |            x              |      x       |      x      |
 | Serveur Web               |           x            |  x  |   x  |             x             |            x              |      x       |      X      |
 
+5 -Protocole, Port, Description :
+
+![image](https://github.com/user-attachments/assets/250733f6-9ee6-432c-8bf1-746963d610fd)
 
 <a href="README.md">(Retourner au sommaire)</a>
