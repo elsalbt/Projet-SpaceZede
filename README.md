@@ -86,9 +86,6 @@ Tous les autres utilisateurs seront sous Windows.
 
 - Création des utilisateurs, des dossiers partagés, des GPO et des scripts
 
-**[Etape-5.md](Etape-5.md) :**
-
-- Déploiement et configuration des machines clientes
 
 <a id="faq"></a>
 ## FAQ :
